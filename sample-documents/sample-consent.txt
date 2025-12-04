@@ -1,0 +1,51 @@
+INFORMED CONSENT FORM
+
+Study Title: A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of XYZ-123 in Patients with Type 2 Diabetes Mellitus
+
+Principal Investigator: Dr. Jane Smith, MD
+Study Sponsor: ABC Pharmaceuticals
+
+INTRODUCTION
+You are being asked to take part in a research study. Before you decide to participate in this study, it is important that you understand why the research is being done and what it will involve. Please take the time to read the following information carefully.
+
+PURPOSE OF THE STUDY
+The purpose of this study is to evaluate whether the investigational drug XYZ-123 is effective and safe for treating type 2 diabetes mellitus. XYZ-123 is an experimental medication that works by improving insulin sensitivity and glucose metabolism through a novel mechanism of action involving hepatic gluconeogenesis inhibition and enhanced peripheral glucose uptake.
+
+STUDY PROCEDURES
+If you agree to participate, you will be randomly assigned to receive either XYZ-123 or a placebo (inactive substance). The randomization process utilizes a computer-generated algorithm to ensure unbiased treatment allocation. You will need to:
+
+1. Visit the clinic every 4 weeks for assessments including vital signs, laboratory tests, and medication dispensation
+2. Take the study medication once daily with food
+3. Monitor your blood glucose levels using a glucometer provided by the study
+4. Complete questionnaires about your symptoms and quality of life
+5. Undergo periodic electrocardiograms and ophthalmologic examinations
+
+The total duration of your participation will be approximately 52 weeks, consisting of a 4-week screening period, 44-week treatment period, and 4-week follow-up period.
+
+RISKS AND DISCOMFORTS
+The most common side effects observed with XYZ-123 include gastrointestinal disturbances (nausea, diarrhea), headache, and mild hypoglycemia. Serious but rare adverse events may include hepatotoxicity, pancreatitis, and cardiovascular complications. All adverse events will be monitored closely by the study team.
+
+BENEFITS
+You may or may not benefit directly from participating in this study. However, the information learned from this study may help future patients with type 2 diabetes mellitus.
+
+CONFIDENTIALITY
+Your medical records and data collected during this study will be kept confidential in accordance with applicable regulations including HIPAA. Your identity will be coded, and your name will not be used in any reports or publications.
+
+VOLUNTARY PARTICIPATION
+Your participation in this study is entirely voluntary. You may withdraw from the study at any time without penalty or loss of benefits to which you are otherwise entitled.
+
+CONTACT INFORMATION
+If you have questions about the study, please contact:
+Dr. Jane Smith at (555) 123-4567
+
+If you have questions about your rights as a research participant, contact:
+Institutional Review Board at (555) 987-6543
+
+CONSENT
+By signing this form, I acknowledge that I have read and understood the information provided about the study. I voluntarily agree to participate in this research study.
+
+________________________    ________________________    __________
+Participant Name (Print)      Participant Signature        Date
+
+________________________    ________________________    __________
+Investigator Name (Print)     Investigator Signature      Date

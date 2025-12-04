@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# === Node / Next.js additions for this project ===
+/node_modules
+/.next
+/out
+/npm-debug.log*
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
